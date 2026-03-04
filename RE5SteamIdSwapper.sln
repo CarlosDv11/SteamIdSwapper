@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RE5SteamIdSwapper", "RE5SteamIdSwapper.csproj", "{BE273F63-ADA8-2649-FFF0-804EE672C5AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE273F63-ADA8-2649-FFF0-804EE672C5AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE273F63-ADA8-2649-FFF0-804EE672C5AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE273F63-ADA8-2649-FFF0-804EE672C5AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE273F63-ADA8-2649-FFF0-804EE672C5AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BA15B98-3DD9-4197-AFAC-EFC3CE6DC696}
+	EndGlobalSection
+EndGlobal
